@@ -1,0 +1,11 @@
+#this is example file
+pi=3.14
+
+def square(x):
+    return(x**2)
+
+def circumference(r):
+    return (2*pi*r)
+
+def add(a,b):
+    return (a+b)
